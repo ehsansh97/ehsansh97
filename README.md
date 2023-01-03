@@ -7,17 +7,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m working in <a href="https://radintechco.ir/" target="blank">Radintech co.</a>
+- 🔭 I have founded and I'm working in <a href="https://radintechco.ir/" target="blank">**Radintech co.**</a>
 
-- 🌱 I’m currently Working on Web Applications
+- 🌱 I’m currently Working on **Web Applications**
 
 - 💬 Ask me about **Web Developement and AI**
 
 - 📫 How to reach me **ehsan.shariati.76@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/ehsansh97/ehsansh97/blob/main/CVEhsanShariatiEN.pdf" target="blank">Resume</a>
+- 📄 My experiences are in my <a href="https://github.com/ehsansh97/ehsansh97/blob/main/CVEhsanShariatiEN.pdf" target="_blank">**Resume**</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" >Contact me 🤝</h3>
 
 <p align="center">
 
