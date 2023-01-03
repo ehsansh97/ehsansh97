@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsansh97&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -29,12 +28,9 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/ehsan_sh97">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/ehsansh97/ehsansh97/blob/main/CVEhsanShariatiEN.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
-
 
 ---
 
