@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Developement and AI**
 
-- 📫 How to reach me **ehsan.shariati.76@gmail.com**
+- 📫 My email is **ehsan.shariati.76@gmail.com**
 
 - 📄 My experiences are in my <a href="https://github.com/ehsansh97/ehsansh97/blob/main/CVEhsanShariatiEN.pdf" target="_blank">**Resume**</a>
 <br/>
